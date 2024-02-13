@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - PowerUp_FireRate
+  - PowerUp_Shield
+  - PowerUp_Bomb
+  - Level_1
+  - Level_2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Projectile
+  - Enemy
+  - Collectable
+  - Ground
+  - Destroy_Tile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Point_Detect
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
